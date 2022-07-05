@@ -1,2 +1,4 @@
 # DS-MachineLearning
-Machine learning in 90 days with 90 different python scripts
+The purpose of creating this repository is to implement the Understandings of Machine Learning Algorithms.
+
+#10_Weeks_of_ML
